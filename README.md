@@ -169,6 +169,7 @@ $ vim .env
 ```
 
 ### 🎈  添加计划任务
+每60天commit一次，防止被github禁用。
 #### 安装crontabs以及cronie
 ```bash
 $ yum -y install cronie crontabs
